@@ -7,6 +7,7 @@ import config
 import shutil
 import time
 import autresFonctions
+import socket
 
 def verifNoeud():
 	BDD.verifExistBDD()
